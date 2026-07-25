@@ -9,6 +9,9 @@
   <a href="https://www.linkedin.com/in/shaheer-kayani-146791318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-blue?style=flat"></a>
 </p>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=ShaheerKayani145&style=flat&color=blue" alt="Profile views" />
+</p>
 
 ---
 
