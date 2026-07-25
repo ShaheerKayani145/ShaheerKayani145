@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="mailto:shaheerkayanisps@gmail.com"><img src="https://img.shields.io/badge/Email-shaheerkayanisps%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/shaheer-kayani-1467913185"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="#"><img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-blue?style=flat"></a>
 </p>
 
