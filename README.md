@@ -97,13 +97,4 @@ Coursework: OOP, Data Structures & Algorithms, DBMS, Computer Networks, Operatin
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShaheerKayani145&show_icons=true&theme=default" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaheerKayani145&layout=compact" />
-</p>
-
----
-
 <p align="center">📫 <b>shaheerkayanisps@gmail.com</b> &nbsp;|&nbsp; 📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📱 0332-5022323</p>
