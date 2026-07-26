@@ -7,24 +7,19 @@
 <p align="center">
   <a href="mailto:shaheerkayanisps@gmail.com"><img src="https://img.shields.io/badge/Email-shaheerkayanisps%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/shaheer-kayani-146791318"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Location-Rawalpindi%2C%20Pakistan-blue?style=flat"></a>
-</p>
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ShaheerKayani145&style=flat&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=ShaheerKayani145&style=flat&color=blue" alt="Profile views" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I'm a Computer Science graduate with hands-on experience across three internships, building responsive, production-grade web interfaces and AI-powered applications. My final year project, **SmartUML**, uses NLP to turn plain-English requirements into structured UML diagrams — combining my interest in full-stack engineering with applied AI.
+> 💡 Computer Science graduate passionate about building intelligent, production-ready web applications at the intersection of full-stack engineering and applied AI.
 
-I'm currently looking for **Software Engineering / Full-Stack Developer** roles where I can work on real infrastructure and AI-driven products.
-
-- 🔭 Currently building: **SmartUML** — an NLP-driven UML diagram generator
-- 🌱 Learning: cloud infrastructure & scalable backend architecture
-- 💬 Ask me about: React, Node.js, FastAPI, or NLP-powered app integrations
-- 📫 Reach me: **shaheerkayanisps@gmail.com** | 0332-5022323
+- **🛠️ What I Do:** Build end-to-end Web Applications | Responsive React Frontends backed by scalable Node.js and FastAPI services.
+- **🤖 Current Focus:** Integrating AI and NLP capabilities (LLMs, Hugging Face, and Gemini) into real-world full-stack products.
+- **⚡ Currently Built:** **SmartUML** | An NLP-driven UML diagram generator that turns Plain-English requirements into structured diagrams.
+- **📫 Reach Me:** [shaheerkayanisps@gmail.com](mailto:shaheerkayanisps@gmail.com) · 0332-5022323
 
 ---
 
@@ -61,47 +56,28 @@ I'm currently looking for **Software Engineering / Full-Stack Developer** roles 
 
 ---
 
-### 🔥 Featured Projects
+### 💼 Professional Experience
 
-#### 🧩 [SmartUML: Intelligent UML Diagram Generator](https://github.com/ShaheerKayani145/SmartUML) &nbsp;|&nbsp; [🔗 Live Demo](https://smartuml-three.vercel.app)
-NLP-driven full-stack app that converts natural-language problem descriptions into Class, Activity, and Use Case UML diagrams. Built collaboratively as a team of 3 for my Final Year Project.
-- Built the React.js frontend to render, visualize, and export generated UML diagrams
-- Integrated Hugging Face Inference API + Gemini Flash API for Named Entity Recognition and relationship extraction
-- Cloud-based inference — no heavy local hardware dependency, fully scalable
-- **Stack:** Python, FastAPI, Hugging Face API, Gemini Flash API, React.js, Firebase
+**🔹 WordPress Developer & Content Management Intern**
+`GAO RFID Inc.` · Aug 2025 – Nov 2025
+> Redesigned client-facing web pages to align with brand guidelines. Managed end-to-end WordPress content operations | product uploads, inventory updates, and plugin configuration. Improved SEO hygiene and digital presence across key landing pages.
 
-#### 🏨 Hotel Booking & Inventory Management System *(repo coming soon)*
-Full-stack hotel management app with real-time booking, check-in/check-out, and live inventory tracking.
-- Admin dashboard visualizing room occupancy and full reservation lifecycle
-- Optimized MongoDB queries for instant availability checks, eliminating double bookings
-- **Stack:** React.js, Node.js, Express.js, MongoDB
+**🔹 Web Development Intern**
+`Digital Empowerment Network` · Jul 2025 – Sep 2025
+> Delivered multiple responsive, SEO-friendly web applications including an e-commerce platform, expense tracker, and portfolio site. Collaborated using Git and GitHub with professional code review workflows.
 
-#### 💰 Personal Finance Expense Tracker *(repo coming soon)*
-Single-page React app for logging, categorizing, and analyzing daily expenses with real-time summaries.
-- Mobile-first, cross-browser responsive design
-- **Stack:** React.js, JavaScript, HTML5, CSS3
-
-> 💡 Once these two are pushed to GitHub, swap in their repo links here — and add a live demo link + screenshot to each, same as SmartUML.
-
----
-
-### 💼 Experience
-
-**WordPress Developer & Content Management Intern** — GAO RFID Inc. *(Aug 2025 – Nov 2025)*
-Redesigned client-facing pages, managed content operations, improved SEO hygiene across landing pages.
-
-**Web Development Intern** — Digital Empowerment Network *(Jul 2025 – Sep 2025)*
-Built responsive e-commerce, expense tracker, and portfolio apps; collaborated via Git/GitHub with code review workflows.
-
-**Front-End Development Intern** — E-Mareez *(Jan 2025 – Aug 2025)*
-Built reusable UI components with HTML/CSS/Tailwind; cloned high-fidelity Apple/Netflix-style layouts.
+**🔹 Front-End Development Intern**
+`E-Mareez` · Jan 2025 – Aug 2025
+> Engineered reusable, modular UI components with HTML, CSS, and Tailwind CSS. Cloned and redesigned high-fidelity, pixel-accurate web pages, including Apple and Netflix-style layouts.
 
 ---
 
 ### 🎓 Education
-**BS Computer Science** — Foundation University Islamabad *(2022 – Present)*
-Coursework: OOP, Data Structures & Algorithms, DBMS, Computer Networks, Operating Systems, Software Engineering, Web Engineering
+
+**🎓 BS Computer Science**
+`Foundation University Islamabad` · 2022 – Present
+> Relevant coursework: Object-Oriented Programming, Data Structures & Algorithms, Database Management Systems, Computer Networks, Operating Systems, Software Engineering, Web Engineering.
 
 ---
 
-<p align="center">📫 <b>shaheerkayanisps@gmail.com</b> &nbsp;|&nbsp; 📍 Rawalpindi, Pakistan &nbsp;|&nbsp; 📱 0332-5022323</p>
+<p align="center">📫 <b>shaheerkayanisps@gmail.com</b> &nbsp;|&nbsp; 📱 0332-5022323</p>
